@@ -1,0 +1,4 @@
+schema: 1
+subscriptions:
+    - deepseek-ai/deepseek-harness
+    - deepseek-ai/dsh-superagent-prototype
